@@ -8667,6 +8667,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F55ABB531B4F39DA00A0ECD5 /* Parse-iOS.xcconfig */;
 			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
 			};
 			name = Debug;
 		};
@@ -8674,6 +8676,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F55ABB531B4F39DA00A0ECD5 /* Parse-iOS.xcconfig */;
 			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
 			};
 			name = Release;
 		};
@@ -8681,6 +8685,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582DE1C3B0A40000063C6 /* Parse-iOS-Dynamic.xcconfig */;
 			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
 			};
 			name = Debug;
 		};
@@ -8688,6 +8694,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81C582DE1C3B0A40000063C6 /* Parse-iOS-Dynamic.xcconfig */;
 			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
 			};
 			name = Release;
 		};
